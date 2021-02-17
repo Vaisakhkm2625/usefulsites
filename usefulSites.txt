@@ -1,0 +1,2 @@
+disabling copy,paste....on website
+https://www.codingbot.net/2017/03/disable-copy-paste-mouse-right-click-using-javascript-jquery-css.html
